@@ -162,12 +162,10 @@ nav {
 .photo-label {
   background: none;
   border: none;
-  box-shadow: none;
   color: #ffffff;
   font-size: 0.9rem;
   font-weight: 900;
   letter-spacing: 1px;
-  text-transform: uppercase;
   white-space: nowrap;
   text-shadow:
     1px 1px 0px #000,
